@@ -1,1 +1,2 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Za3Y7Tlj)
 Labtask #1: Your next assignment is available here: https://www.cs.miami.edu/home/wuchtys/CSC322-25S/Assessment/SimpleUNIX.html. Deadline is Mo, Feb 3rd, 6pm. When you have completed a lab task, submit the solution files through your Github account. Here is a primer (https://www.cs.miami.edu/home/wuchtys/CSC322-25S/github.pptx) of how to submit homeworks.
