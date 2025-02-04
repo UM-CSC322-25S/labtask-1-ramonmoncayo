@@ -1,0 +1,3 @@
+When a program is started from the shell prompt, its parent process is the shell.
+The shell’s parent process is typically the login manager (e.g. login, sshd, xterm).
+Finally, that login manager is a child of init (PID 1) or systemd (on modern Linux).
